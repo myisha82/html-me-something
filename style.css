@@ -1,0 +1,42 @@
+body {
+    background-color:floralwhite;
+    margin: 25px 10px;
+    font-size:  10pt
+}
+header,
+main,
+footer {
+        font-size: 15pt;
+        text-align: center;
+}
+
+footer {
+    background-color: #5263cc;
+    padding:10pox;
+}
+
+img {
+    text-align: left;
+}
+ul.cities {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+h2 {
+    text-decoration: underline;
+    font-style: italic;
+    }
+
+#Maiori {
+    color:  white;
+    font-family: "cursive";
+    background: #648880;
+    background: linear-gradient(to right, #d3daf6, #5273cc 85%, #1a0177);
+}
+.towns {
+     background-color: #5273cc;
+     color: white;
+     padding: 10px;
+
+}
